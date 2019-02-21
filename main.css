@@ -1,0 +1,9 @@
+#main_head {
+    border: 1px dashed blue;
+}
+#DOB {
+    font-style: italic;
+}
+#birthplace {
+    background-color: #FF7F50;
+}
